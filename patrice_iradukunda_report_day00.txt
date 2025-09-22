@@ -1,0 +1,45 @@
+#Report
+
+#Name: Patrice IRADUKUNDA
+#Master’s Student: Mathematical Science – Regular
+#Date: Monday, September 22, 2025
+
+#Introduction
+
+Today’s session marked the beginning of the course Introduction to the Python Programming Language. As it was the first class, the lecturer focused on setting the foundation for both the course and our learning journey. The lecture covered two main areas: first, the lecturer’s introduction along with valuable guidance on how to succeed in the course; and second, an introduction to GitHub as an essential platform for project collaboration, repository management, and academic or professional development.
+
+Lecturer’s Introduction and Tips for Success
+
+The lecturer began by introducing himself to the class, sharing his academic background, experience, and passion for teaching programming. He highlighted that success in this course depends on both technical commitment and the right mindset. The tips he shared included:
+
+Practicing Python consistently to strengthen both logic and problem-solving skills.
+
+Remaining disciplined in completing class exercises and projects on time.
+
+Collaborating with peers to share knowledge and overcome challenges together.
+
+Taking advantage of resources such as online tutorials, documentation, and open-source projects to complement classroom learning.
+
+Maintaining curiosity and persistence, since programming mastery requires continuous effort and problem-solving.
+
+These insights were particularly motivating because they gave us a clear direction on how to approach not only this course but also programming in general.
+
+#Introduction to GitHub
+
+After establishing the course expectations, the lecturer shifted the focus to GitHub, a widely used platform in software development and research. Instead of diving into programming commands, the session was entirely practical, where we explored GitHub manually through its web interface. The lecturer explained GitHub as a cloud-based platform that allows students, developers, and professionals to manage their projects, collaborate with others, and track their progress effectively.
+
+Key aspects we learned during the session included:
+
+Repositories: We learned how to create a repository, which functions like a project folder where all related files are stored and organized.
+
+Folders and Files: The lecturer demonstrated how to add folders and upload files manually, showing us how projects can be structured in a neat and accessible way.
+
+Collaboration: An important part of GitHub is teamwork. We studied how to invite collaborators, share project access, and work together on the same repository. This highlighted how GitHub supports collective work on academic projects, research, and professional software.
+
+File and Repository Management: We also learned how to delete files or even entire repositories when they are no longer needed, which taught us about project lifecycle management and digital organization.
+
+Through these exercises, we gained practical experience in navigating GitHub, organizing our work, and understanding its role as a foundation for collaborative coding and academic research.
+
+#Conclusion
+
+The first class provided both motivation and technical orientation. On one hand, the lecturer’s tips gave us a clear sense of how to succeed in the course by emphasizing practice, discipline, and collaboration. On the other hand, the GitHub session introduced us to a crucial tool for modern programming and research work. By learning how to create repositories, manage files, collaborate with peers, and organize projects, we gained valuable skills that will support our progress not only in this course but also in future academic and professional settings. This session set a strong foundation for the learning journey ahead.
